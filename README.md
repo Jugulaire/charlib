@@ -4,4 +4,4 @@ A charlieplexing library for Arduino inspired by original charlieplex library fr
 
 ## Schematic 
 
-![Demo of wiring] (charli://github.com/Jugulaire/charlib/blob/master/schematic.png?raw=true)
+![Demo of wiring] (https://github.com/Jugulaire/charlib/blob/master/schematic.png)
